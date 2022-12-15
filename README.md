@@ -1,4 +1,4 @@
-# laratron
+# Laratron
 Laravel run locally as desktop application using electron
 
 - Laravel 9
