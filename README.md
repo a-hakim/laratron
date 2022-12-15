@@ -5,7 +5,7 @@ Laravel run locally as desktop application using electron
 - PHP 8.0
 - SQLite
 
-##Run the application
-'''
+## Run the application
+'
 npm start
-'''
+'
